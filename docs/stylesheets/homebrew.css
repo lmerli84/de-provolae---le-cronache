@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap");
+
+:root,
+[data-md-color-scheme="default"] {
+  --md-default-bg-color: #d9cdb0;
+  --md-default-fg-color: #1b1209;
+  --md-primary-fg-color: #58180d;
+  --md-primary-bg-color: #fbf3df;
+  --md-accent-fg-color: #9c2b1b;
+  --md-typeset-a-color: #58180d;
+}
+
+/* Pagina "foglio" al centro */
+.md-content__inner {
+  background: #fbf3df;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.35);
+  padding: 1.5rem 2rem;
+  margin: 1rem auto;
+}
+
+.md-typeset {
+  font-size: 0.95rem;
+  line-height: 1.55;
+  color: #1b1209;
+}
+
+/* Titoli */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+  font-family: "IM Fell English SC", serif;
+  color: #58180d;
+  font-weight: 400;
+}
+.md-typeset h1 { border-bottom: 3px solid #c0ad6a; padding-bottom: 0.2em; }
+.md-typeset h2 { border-bottom: 2px solid #c0ad6a; }
+.md-typeset h3 { border-bottom: 1px solid #c0ad6a; }
+
+/* Tabelle a righe alterne */
+.md-typeset table:not([class]) {
+  border: none;
+  box-shadow: none;
+  font-size: 0.9rem;
+}
+.md-typeset table:not([class]) th {
+  background: #58180d;
+  color: #fbf3df;
+}
+.md-typeset table:not([class]) tr:nth-child(even) td {
+  background: #e0e5c1;
+}
+
+/* Citazioni come riquadri stile stat block */
+.md-typeset blockquote {
+  background: #fdf1dc;
+  border-left: none;
+  border-top: 3px solid #e69a28;
+  border-bottom: 3px solid #e69a28;
+  color: #1b1209;
+  padding: 0.6rem 1rem;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+/* Intestazione e barra laterale in tinta */
+.md-header, .md-tabs { background: #58180d; }
+.md-footer { background: #3b0f08; }
