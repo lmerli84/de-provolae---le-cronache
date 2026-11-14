@@ -6,6 +6,7 @@ La porta è incastrata e va forzata con la Forza.
  
 - Si tira **1d6**: il tentativo riesce con un risultato **pari o inferiore** al valore di *Forza per aprire porte*.
 - Si può riprovare
+
 | Forza | Aprire porte (su 6) |
 |-------|---------------------|
 | 3     | 1 su 6              |
