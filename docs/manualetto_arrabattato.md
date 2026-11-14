@@ -13,6 +13,7 @@ Qui sono raccolte regole base di De-Provolae!
 
 ## Chi siete
 e vergognatevi
+
 | Nome | Canaglia | Classe | Razza | dado vita|
 | :---: | :--- | :--- |  :--- | :--- |
 | Ale | Lord Skagerrak L'enorme | Chierico | Gnomo | 1d6 |
