@@ -1,0 +1,9 @@
+site_name: DE PROVOLAE – Le Cronache
+site_description: De Provolae annales
+theme:
+  name: material
+  language: it
+  features:
+    - navigation.top
+    - search.suggest
+    - navigation.footer
