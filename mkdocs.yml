@@ -8,4 +8,8 @@ theme:
     - search.suggest
     - navigation.footer
 extra_css:
-  - stylesheets/homebrew.css  
+  - stylesheets/homebrew.css
+nav:
+  - Home: index.md
+  - Sessioni:
+    - sessioni/01-i-sotterranei.md01-20261113-i-sotterranei-di-barbanello.md
