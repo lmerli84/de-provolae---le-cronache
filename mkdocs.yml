@@ -12,4 +12,7 @@ extra_css:
 nav:
   - Home: index.md
   - Sessioni:
-    - sessioni/01-i-sotterranei.md01-20261113-i-sotterranei-di-barbanello.md
+    - sessioni/01-20261113-i-sotterranei-di-barbanello.md
+  - Regole:
+    - manualetto_arrabattato.md
+    - tiro_per_colpire.md
