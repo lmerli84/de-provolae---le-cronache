@@ -1,6 +1,5 @@
 # Aprire porte chiuse
 
-## Tutti
 ## Porta bloccata
  
 La porta è incastrata e va forzata con la Forza.
@@ -18,6 +17,6 @@ La porta è incastrata e va forzata con la Forza.
 | 18    | 5 su 6              |
 
 
-# Il ladro
+## Il ladro
 - Il ladro non usa il “su 6” ma una percentuale: tira 1d100 e ha successo se il risultato è pari o inferiore al suo valore di Scassinare serrature.
 - se il ladro fallisce, non può ritentare e la porta è bloccata (ma può essere generalmente sempre forzata)
